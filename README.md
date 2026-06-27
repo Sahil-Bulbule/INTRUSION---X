@@ -57,10 +57,6 @@ It also provides analytics like model comparison and data visualization.
 
 ## 👨‍💻 Author
 **Sahil Bulbule**
-
-- GitHub: https://github.com/your-username  
-- LinkedIn: https://linkedin.com/in/your-profile  
-
 ---
 
 ⭐ If you like this project, give it a star!
