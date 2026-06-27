@@ -1,0 +1,4 @@
+Model,Accuracy
+Simple RNN,98.91
+LSTM,98.75
+GRU,98.67
