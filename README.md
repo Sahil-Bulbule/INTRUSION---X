@@ -2,7 +2,7 @@
 ### AI-Based Network Intrusion Detection System (RNN | LSTM | GRU)
 
 ---    
-  
+    
 ## 🚀 Overview
 Intrusion X is a deep learning-based cybersecurity project that predicts whether a network activity is **Safe or Dangerous** using attack probability.
  
