@@ -20,7 +20,7 @@ It also provides analytics like model comparison and data visualization.
 ---
 
 ## 🧠 Models Used
-
+  
 - RNN (Baseline sequence model)  
 - LSTM (Best for long-term patterns)  
 - GRU (Fast and efficient model)  
